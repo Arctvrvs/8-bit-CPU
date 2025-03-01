@@ -35,10 +35,7 @@ python assembler/assembler.py assembler/example.asm assembler/example.bin assemb
 3. Set **CPU_tb.v** as the top module  
 4. Run **simulation**  
 
-## Future Improvements
-- Add more instructions (AND, OR, XOR, etc.)
-- Implement pipelining and hazard handling
-- Port to **FPGA** for real-world testing
+
 
 ## License
 This project is licensed under the **MIT License**.
