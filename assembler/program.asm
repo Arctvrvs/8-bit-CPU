@@ -1,0 +1,7 @@
+ADDI R0, 3
+ST R0, 1
+NOP
+NOP
+LD R1, 1
+SUBI R2, 1
+HALT
